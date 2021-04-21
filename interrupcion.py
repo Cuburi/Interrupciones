@@ -39,4 +39,4 @@ except ValueError:
     print("Los valores introducidos no son correctos \nSe genero interrupción")
 
 
-print("Calculo finalizado")
+print("Calculo finalizado.")
